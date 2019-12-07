@@ -1,6 +1,5 @@
-#includePath <stdio.h>
+#include <stdio.h>
 #define TAMANHO 10
-
 
 typedef struct{
 	int no[TAMANHO];
